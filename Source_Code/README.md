@@ -3,6 +3,7 @@
 Dossiera is a production-ready Applicant Tracking System (ATS) optimization tool that uses **Generative AI** to analyze, score, and summarize resumes against specific job roles. Designed for modern recruiters who need to find the perfect fit in seconds.
 
 ![Banner](![Uploading Screenshot 2026-04-30 104021.png…]())
+![Alt Text](Screenshot 2026-04-30 104021.png)
 
 ## 🚀 Key Features
 - **AI Match Scoring**: Instantly score resumes from 0-100% based on skill alignment.
