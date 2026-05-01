@@ -7,7 +7,7 @@
 
 ## 📌 Project Type
 
-*Copyright*
+**Copyright**
 
 ---
 
