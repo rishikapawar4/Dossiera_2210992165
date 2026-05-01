@@ -2,18 +2,26 @@
 
 **Roll No:** 2210992165
 **Name:** Rishika Pawar
+
 ---
+
 ## 📌 Project Type
 
-**Copyright**
+*Copyright*
+
 ---
+
 ## 👥 Team Details
+
 * Rishika Pawar (2210992165)
+
 ---
+
 ## 🚀 Project Description
 
 Dossiera is a production-ready Applicant Tracking System (ATS) optimization platform that leverages Generative AI to analyze, score, and summarize resumes based on specific job roles. The system helps recruiters efficiently identify the best candidates by providing AI-driven insights, skill-gap analysis, and automated resume evaluation.
 
+---
 
 ## ✨ Key Features
 
@@ -91,10 +99,6 @@ https://github.com/rishikapawar4/Dossiera_2210992165
 * This repository is created for academic submission purposes
 
 ---
-
-
-Dossiera is a production-ready Applicant Tracking System (ATS) optimization tool that uses **Generative AI** to analyze, score, and summarize resumes against specific job roles. Designed for modern recruiters who need to find the perfect fit in seconds.
-
 
 
 
