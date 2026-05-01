@@ -1,9 +1,110 @@
-# Dossiera: AI-Powered Talent Intelligence Platform 🎯
+# 📁 Project Title: Dossiera – AI-Powered Talent Intelligence Platform
+
+**Roll No:** 2210992165
+**Name:** Rishika Pawar
+
+---
+
+## 📌 Project Type
+
+**Copyright**
+
+---
+
+## 👥 Team Details
+
+* Rishika Pawar (2210992165)
+
+---
+
+## 🚀 Project Description
+
+Dossiera is a production-ready Applicant Tracking System (ATS) optimization platform that leverages Generative AI to analyze, score, and summarize resumes based on specific job roles. The system helps recruiters efficiently identify the best candidates by providing AI-driven insights, skill-gap analysis, and automated resume evaluation.
+
+---
+
+## ✨ Key Features
+
+* AI-based Resume Scoring (0–100%)
+* Skill Gap Analysis
+* Resume Summarization using Generative AI
+* Automated Email Notifications
+* Recruiter Dashboard for managing candidates
+* Secure Authentication using NextAuth
+
+---
+
+## 🛠️ Technology Stack
+
+**Frontend:**
+
+* Next.js 14
+* Tailwind CSS
+
+**Backend:**
+
+* Node.js
+* Next.js API Routes
+
+**Database:**
+
+* MongoDB Atlas
+
+**AI Integration:**
+
+* Google Gemini API
+
+**Other Tools:**
+
+* NextAuth (Authentication)
+* Nodemailer (Email Service)
+
+---
+
+## 📂 Repository Structure
+
+```
+IPR_Submission_Proof/     → Screenshot of copyright submission  
+Report_and_PPT/          → Project report and presentation  
+Source_Code/             → Complete project source code  
+README.md                → Project documentation  
+```
+
+---
+
+## 📸 Screenshot
+
+![Screenshot](Source_Code/public/uploads/Screenshot%202026-04-30%20104021.png)
+
+---
+
+## 📊 Current Status
+
+✅ Completed
+✅ Submitted for Copyright
+✅ GitHub Repository Ready
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/rishikapawar4/Dossiera_2210992165
+
+---
+
+## 📎 Notes
+
+* All required files are uploaded as per guidelines
+* Source code is organized in the `Source_Code` folder
+* This repository is created for academic submission purposes
+
+---
+
 
 Dossiera is a production-ready Applicant Tracking System (ATS) optimization tool that uses **Generative AI** to analyze, score, and summarize resumes against specific job roles. Designed for modern recruiters who need to find the perfect fit in seconds.
 
 
-![Screenshot](Source_Code/public/uploads/Screenshot%202026-04-30%20104021.png)
+
 
 ## 🚀 Key Features
 - **AI Match Scoring**: Instantly score resumes from 0-100% based on skill alignment.
@@ -26,40 +127,6 @@ Dossiera follows a clean, decoupled architecture:
 - **Server**: Standardized RESTful API layer with unified error handling.
 - **Storage**: Cloud-hosted MongoDB and local file storage for resumes.
 
-
-## 🏁 Getting Started
-
-### Prerequisites
-- Node.js 18+
-- MongoDB Atlas Account
-- Google Cloud Console (for OAuth)
-- Gemini API Key
-
-### Installation
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Dossiera.git
-   cd Dossiera
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Environment Setup**:
-   Copy `.env.example` to `.env.local` and add your secret keys:
-   ```bash
-   cp .env.example .env.local
-   ```
-
-4. **Run Development Server**:
-   ```bash
-   npm run dev
-   ```
-
-## 📜 License
-Protected under the **MIT License**. Created by **Rishika Pawar** (2026).
 
 ---
 *Built with ❤️ as a Final year computer science engineering Project.*
